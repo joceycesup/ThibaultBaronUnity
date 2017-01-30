@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 651330d9031a13c468c8a56ef2ad286f
+timeCreated: 1485611545
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EyesTransform
+    100002: jointBackbone1
+    100004: jointBackbone2
+    100006: jointHead
+    100008: jointHeadBottom
+    100010: jointJaw
+    100012: jointJawTip
+    100014: jointLeftEar1
+    100016: jointLeftEar2
+    100018: jointLeftEarTip
+    100020: jointLeftElbow
+    100022: jointLeftFoot
+    100024: jointLeftHip
+    100026: jointLeftKnee
+    100028: jointLeftPalm
+    100030: jointLeftPalmTip
+    100032: jointLeftShoulder
+    100034: jointNeck
+    100036: jointNose
+    100038: jointNoseTip
+    100040: jointRightEar1
+    100042: jointRightEar2
+    100044: jointRightEarTip
+    100046: jointRightElbow
+    100048: jointRightFoot
+    100050: jointRightHip
+    100052: jointRightKnee
+    100054: jointRightPalm
+    100056: jointRightPalmTip
+    100058: jointRightShoulder
+    100060: jointRoot
+    100062: jointTail
+    100064: LeftEye
+    100066: mesh
+    100068: //RootNode
+    100070: PiggyTransform
+    100072: RightEye
+    100074: skeleton
+    400000: EyesTransform
+    400002: jointBackbone1
+    400004: jointBackbone2
+    400006: jointHead
+    400008: jointHeadBottom
+    400010: jointJaw
+    400012: jointJawTip
+    400014: jointLeftEar1
+    400016: jointLeftEar2
+    400018: jointLeftEarTip
+    400020: jointLeftElbow
+    400022: jointLeftFoot
+    400024: jointLeftHip
+    400026: jointLeftKnee
+    400028: jointLeftPalm
+    400030: jointLeftPalmTip
+    400032: jointLeftShoulder
+    400034: jointNeck
+    400036: jointNose
+    400038: jointNoseTip
+    400040: jointRightEar1
+    400042: jointRightEar2
+    400044: jointRightEarTip
+    400046: jointRightElbow
+    400048: jointRightFoot
+    400050: jointRightHip
+    400052: jointRightKnee
+    400054: jointRightPalm
+    400056: jointRightPalmTip
+    400058: jointRightShoulder
+    400060: jointRoot
+    400062: jointTail
+    400064: LeftEye
+    400066: mesh
+    400068: //RootNode
+    400070: PiggyTransform
+    400072: RightEye
+    400074: skeleton
+    2300000: LeftEye
+    2300002: RightEye
+    3300000: LeftEye
+    3300002: RightEye
+    4300000: PiggyTransform
+    4300002: LeftEye
+    4300004: RightEye
+    9500000: //RootNode
+    13700000: PiggyTransform
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
